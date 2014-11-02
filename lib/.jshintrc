@@ -1,0 +1,7 @@
+{
+	// Environment
+	"browser": true,
+	"globals": {
+		"Palo": false
+	}
+}

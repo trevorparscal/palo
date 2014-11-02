@@ -1,0 +1,17 @@
+{
+	"name": "palo",
+	"version": "0.1.0",
+	"main": [
+		"lib/Palo.js",
+		"lib/Palo.Package.js",
+		"lib/Palo.Module.js"
+	],
+	"ignore": [
+		"lib/.jshintrc",
+		".gitignore",
+		".jscsrc",
+		".jshintrc",
+		"gulpfiles.js",
+		"package.json"
+	]
+}

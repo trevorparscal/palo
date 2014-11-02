@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"dependencies": {
+		"gulp": "^3.8.8",
+		"gulp-jscs": "^1.1.2",
+		"gulp-jshint": "^1.8.5",
+		"jshint-stylish": "^1.0.0"
+	}
+}
