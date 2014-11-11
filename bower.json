@@ -1,10 +1,9 @@
 {
 	"name": "palo",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"main": [
-		"lib/Palo.js",
-		"lib/Palo.Package.js",
-		"lib/Palo.Module.js"
+		"lib/Palo.Queue.js",
+		"lib/Palo.js"
 	],
 	"ignore": [
 		"lib/.jshintrc",
